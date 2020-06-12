@@ -1,5 +1,5 @@
 Hello !👋🏻
-This repository is dedicated to a team project that occured in the scope of the course "processing with A.I" offered at emlyon business school.
+This repository is dedicated to a team project that occured in the scope of the course "processing with A.I" offered by emlyon business school.
 
 More precisely, my team was challenged to develop a concept that could improve blind's people mobility and "social interactions". Our idea is simple, to provide glasses that would bring protection and guidance to visually impaired people.
 
